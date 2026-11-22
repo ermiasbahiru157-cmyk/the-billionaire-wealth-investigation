@@ -54,5 +54,6 @@ An initial audit revealed trailing and leading whitespace inconsistencies in the
 
 ## 🛠️ SQL Techniques Demonstrated
 UPDATE • TRIM() • COUNT() • SUM() • AVG() • GROUP BY • HAVING • CASE WHEN • Scalar Subqueries • Common Table Expressions (WITH) • Window Functions (RANK() OVER PARTITION BY)
+
 ## 📸 Query Execution Previews
 
